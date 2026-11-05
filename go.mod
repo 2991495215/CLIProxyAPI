@@ -41,7 +41,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
-replace github.com/MoeForge/moego v0.1.0-alpha.1 => github.com/router-for-me/moego v0.1.1
+replace github.com/MoeForge/moego v0.1.0-alpha.1 => github.com/router-for-me/moego v0.1.2
 
 require (
 	github.com/bytedance/gopkg v0.1.3 // indirect
@@ -65,6 +65,7 @@ require (
 	github.com/tinylib/msgp v1.6.4 // indirect
 	github.com/wlynxg/anet v0.0.5 // indirect
 	github.com/zeebo/xxh3 v1.1.0 // indirect
+	go.etcd.io/bbolt v1.5.0 // indirect
 	go.uber.org/atomic v1.12.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/time v0.16.0 // indirect
